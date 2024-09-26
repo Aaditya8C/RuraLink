@@ -1,7 +1,4 @@
 <h1 align="center">
-  <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="./COC.png" alt="CoC Inheritance 2022" width="500" height="166">
-  </a>
   <br>
   StudyNex
 </h1>
@@ -23,15 +20,12 @@
 - [Applications](#applications)
 - [Project Setup](#project-setup)
 - [Usage](#usage)
-- [Team Members](#team-members)
-- [Mentors](#mentors)
-- [Screenshots](#screenshots)
 
 </details>
 
 ## 📝Description
 
-General Description:- 
+General Description:-
 
 StudyNex....as the name suggests is the next generation virtual group study platform designed for the students by the students. It involved many entities such as student's particular organization, teachers & students of that organization etc. Using this web platform organizations can improve their overall flow of learning.
 All the students & teachers of the organizations can have a insightful communication through interactive channels where teachers can upload study documents, arrange assessments for the students. Also if a group of students wants to study only in their anonymous group then they can create their own private channels where they can interact.
@@ -48,7 +42,6 @@ Users in the organization can participate in the assessments uploaded by the adm
 User can also view their profile which is updated along with the active participation of the user on our platform.
 
 1. Include features and their usecases in bullet points
-   
 
 ## 🔗Links
 
@@ -59,10 +52,10 @@ User can also view their profile which is updated along with the active particip
 - [Hosted Website Link](https://study-nex.vercel.app/)
 - [Hosted Backend Link](https://study-nex-backend.onrender.com)
 
-
 ## 🤖Tech-Stack
 
 #### Front-end
+
 - Next Js
 - React Js
 - Tailwind CSS
@@ -70,27 +63,30 @@ User can also view their profile which is updated along with the active particip
 - Framer Motion
 
 #### Back-end
+
 - NodeJS
 - ExpressJS
 - Flask
 - Cloudinary (for storing media content)
 
 #### Database
+
 - MongoDB
 
-#### API Management Platform: 
+#### API Management Platform:
+
 - Postman
 
-#### Project Deployment: 
+#### Project Deployment:
+
 - Vercel (Frontend)
 - Onrender(Backend)
-
 
 ## 📈Progress
 
 List down all the fully implemented features in your project
 
-- [x] Customized channel creation. 
+- [x] Customized channel creation.
 - [x] General channel where everyone in the organization can interact.
 - [x] Exclusive Group chat for the channels for texting,sharing important files such as pdfs, ppts or doc, or for just bickering.
 - [x] Realtime video meet feature for one to one interaction along with screen sharing capability.
@@ -101,7 +97,7 @@ List down all the fully implemented features in your project
 
 List down all the partially implemented features in your project
 
-- [ ] Scheduling of the assessments. 
+- [ ] Scheduling of the assessments.
 - [ ] Scheduling the events in platform itself, (such as scheduling hackathons and have our AI calculate the scores and rankings).
 
 ## 🔮Future Scope
@@ -140,41 +136,10 @@ Backend:-
 Others can simply fork the repository & then clone it in their machine. Once done they should run 'npm i --force'
 to install all the required dependecies.Then can simply run 'npm run dev' to start the project.
 
-
 ## 💻Usage
 
-- Users must required to add .env file in order to run the project. 
+- Users must required to add .env file in order to run the project.
 - Then they can simply run 'npm run dev' to start the project.
-
-## 👨‍💻Team Members
-
-Add names of your team members with their emails and links to their GitHub accounts
-
-- [Team Member 1 Aaditya Jayant Padte](https://github.com/Aaditya8C): aadityajp0419@gmail.com
-- [Team Member 2 Vedant Mahendra Kale](https://github.com/VedantKale08): vedantkale8114@gmail.com
-- [Team Member 3 Aniket Suresh Jadhav](https://github.com/DevAniket010): aj230375@gmail.com
-
-## 👨‍🏫Mentors
-
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Mentor 1 Riya Kasture](https://github.com/Riya-1508): kastureriya@gmail.com 
-- [Mentor 2 Asmita Raina](https://github.com/AsmitaRaina): asmitaraina2003@gmail.com 
-
-## 📱Screenshots
-
-![Screenshot from 2024-02-08 16-26-19](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/b2a59a9f-00c8-4c45-8e03-a7fa9d6697ff)
-
-![Screenshot from 2024-02-08 16-26-47](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/40e7b262-b962-48e1-8f34-23c97c10a3fd)
-![Screenshot from 2024-02-08 16-26-55](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/102eb068-246b-4264-9705-cb0c7c31bdda)
-![Screenshot from 2024-02-08 16-28-09](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/af85d18b-d036-40f7-acc6-1f8a8009ad0b)
-![Screenshot from 2024-02-08 16-28-23](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/7978c955-8d9f-4a6a-955f-da5b72ec09ff)
-![Screenshot from 2024-02-08 16-29-42](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/290710ae-dabb-4988-be35-69d8c3a69823)
-![Screenshot from 2024-02-08 16-30-24](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/fe39932b-028f-448f-9e2c-a97bb96c58c3)
-![Screenshot from 2024-02-08 16-31-42](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/b1a8612b-c871-4b55-8320-45e6543ef316)
-![Screenshot from 2024-02-08 16-45-53](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/a88ed121-1f75-4a9d-b885-6be3753c8d54)
-![Screenshot from 2024-02-08 16-31-11](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/82e3192e-0eeb-4a45-ae8c-8730581d5921)
-
 
 You can find more detailed images here:
 
