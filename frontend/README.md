@@ -5,7 +5,6 @@
 
 <div align="center">
    <strong>StudyNex</strong> - A next generation virtual group study platform<br>
-  CoC Inheritance 2023 || Code Of Duty <br> <br>
 </div>
 <hr>
 
